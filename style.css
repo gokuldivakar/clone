@@ -1,0 +1,361 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#container{
+    background-color: #f1f1f1;
+    font-family: sans-serif;
+    margin: 0 auto;
+
+}
+.nav_bar{
+    padding: 10px 0px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    top: 0px;
+    background-color: white;
+    z-index: 4;
+    position: fixed;
+}
+.lens{
+    margin: 20px;
+}
+
+.ddd{
+    margin: 0 5px;
+}
+.dd{
+    margin: 20px;
+    border: 1px solid black;
+    border-radius: 50%;
+    width: 20px;
+    height: 20px;
+}
+.search{
+    width: 500px;
+    height: 35px;
+    padding: 10px 5px;
+   border-radius: 5px;
+   background-color: grey;
+   opacity: 0.5;
+   border: 1px solid grey;
+}
+
+.list-items{
+    display: inline;
+    margin: 0px 5px;
+}
+
+.link{
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 20px;
+    color: black;
+}
+.second{
+    padding: 0 50px;
+    margin-top: 100px;
+
+}
+.adv{
+    display: flex;
+    background-color: rgb(255, 255, 255);
+    margin-top: 110px;
+    padding: 20px;
+    
+    justify-content: space-between;
+
+}
+
+.advertisement{
+    margin: 0px 20px;
+/* margin: 0 20px; */
+    text-align: center;
+}
+
+.pic{
+    width: 50px;
+    height: 75px;
+}
+
+.big-sale{
+    margin-top: 20px;
+    
+}
+
+.big-mil{
+    width: 100%;
+    height: 150px;
+}
+
+.big-sale2{
+    margin: 20px;
+    padding:0;
+    background-color: white;
+    border: 1px solid rgb(166, 192, 18);
+}
+
+
+#sales{
+    display: flex;
+    align-items:center ;
+    justify-content: center;
+}
+
+.adv-2{
+    background-color: white;
+}
+
+.sale-adv{
+    background-color: white;
+    width: 100%;
+    height: 225px;
+}
+
+
+.sale-prd{
+    margin: 0px 20px;
+    
+    background-color: rgb(255, 255, 255);
+    width: 100%;
+    height: 400px;
+}
+
+.prd-items{
+    display: flex;
+    margin: 0px 20px;
+
+
+}
+
+.text{
+    font-weight: bold;
+    margin: 10px 20px;
+    font-size: 19px;
+}
+
+.market{
+    width: 175px;
+    height: 275px;
+    border: 1px solid grey;
+    margin: 0px 10px;
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+    border-radius: 5px;
+    font-size: 15px;
+}
+
+.product{
+    width: 125px;
+    height: 150px;
+    margin-top: 20px;
+}
+.prd_main{
+    display: flex;
+    /* align-items: center;
+    justify-content: space-between ; */
+}
+.prd_adv_img{
+    padding: 0px 10px 0px 0px;
+    width: 225px;
+    height: 275px;
+    background-color: rgb(0, 0, 0);
+}
+
+.toyclass{
+    margin: 20px;
+    background-color: rgb(255, 255, 255);
+    height: 400px;
+    
+}
+
+.sales2-prd{
+    display: flex;
+}
+
+.toys-items{
+    width: 250px;
+    height: 250px;
+    border: 1px solid grey;
+    text-align: center;
+    margin: 0px 20px;
+    margin-top: 10px;
+    border-radius: 5px;
+}
+
+.text2{
+    font-weight: bold;
+    margin-top: 20px;
+    padding: 10px 0px 10px 20px;
+    
+    font-size: 19px;
+}
+
+#sales3{
+    background-color: aquamarine;
+    width: 100vh;
+    margin: 20px;
+   
+    
+}
+
+
+.adclass1{
+    text-align: center;
+    margin-left: 30px;
+
+    
+}
+
+
+
+
+.lastclass{
+    display: flex;
+    padding: 20px;
+}
+
+.motophone{
+    width: 730px;
+    height: 750px;
+    
+
+}
+
+#adclass3{
+    background-color: chocolate;
+    margin-left: 400px;
+    margin-top: -75px;
+    padding-right: 10px;
+}
+
+
+#footer{
+    
+    background-color: #212121;
+    color: rgb(255, 255, 255);
+    width: 100%;
+    /* height: 300px; */
+    
+    
+}
+
+.fotter1{
+    display: flex;
+    align-self: flex-start;
+    justify-content: space-around;
+
+    
+}
+
+.ftd{
+    padding: 20px;
+    
+}
+
+h6{
+    font-size: 13px;
+    line-height:35px;
+
+}
+
+.hh{
+    display: flex;
+    justify-content: space-between;
+    /* margin: 20px; */
+    padding: 20px 50px;
+}
+h6{
+    font-size: 16px;
+}
+.producttt{
+    width: 175px;
+    height: 200px;
+    margin-top: 20px;
+}
+li{
+    list-style: none;
+}
+
+.gokul{
+    width: 40%;
+    background-color: white;
+    margin-left: 40px;
+
+}
+
+.a{
+   
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0px 20px;
+    text-align: center;
+}
+.c{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0px 20px;
+    text-align: center;
+}
+.gd{
+    display: flex;
+   
+}
+
+.divakar{
+    width: 60%;
+}
+
+.webimg{
+    width: 125px;
+    height: 150px;
+    margin-top: 20px;
+}
+
+.webadd{
+width: 100%;
+height: 80%;
+    object-fit: contain;
+    margin: 0px 20px;
+
+}
+
+.imd{
+    border: 1px solid rgb(0, 0, 0);
+    width: 175px;
+    height: 250px;
+    margin: 20px;
+    border-radius: 5px;
+
+}
+
+.a{
+   margin: 0px 40px;
+   text-align: center;
+   padding: 20px;
+   
+   
+}
+
+
+
+
+.c{
+    margin: 0px 40px;
+    text-align: center;
+    padding: 20px;
+}
+
+
+
+
+.BSt-qlty{
+    
+    color: rgb(0, 0, 0);
+    padding: 20px;
+    width: 50%;
+    
+}
